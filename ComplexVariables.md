@@ -1,3 +1,4 @@
+<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
 # 历史寻根复变函数的前世今生：
  历史上第一个遇到‘虚数’即复数的人是印度的数学家Bhaskara Achary(约114-1185)他在解方程时候认为$x^2=-1$是没有意义的。1484年法国数学家N.ChuQuest(约1445-1500)在解方程$x^2-3x+4=0$时候得到的根是$x=\frac 12\pm\sqrt{\frac 49-4} $,他被这个"怪数"弄的不知所措。1545年，意大利数学家G.Cardano(1501-1576)在解方程$x(10-x)=40$时候，把这个方程的两个根$5\pm\sqrt{(-15)}$，从而引进了复数。与他同时期的另一位意大利数学家Rafael Bombelli(1526-1572)  在其《代数》一书中从已知的实数运算法则类推出了复数的四则运算。
 1629年，荷兰科学家A.Girard(1595-1632)在其《代数新发明》一书中引入了符号$\sqrt {(-1)}$来表示虚数单位。稍后，法国科学家R.Descartes(1596-1632)用$i$来记$\sqrt{(-1)}$，并且第一次使用“复数”，“虚数”这些概念。1843年，瑞士科学家L.Euler(1707-1783)发现了著名的欧拉公式$e^{i\varTheta}=cos\vartheta+isin\vartheta$。1797年，丹麦数学家C.Wessel在坐标平面上引进了实轴与虚轴，使得复数$a+bi$与平面上的点一一对应，从而使得“复数”有了“立足之地”。
